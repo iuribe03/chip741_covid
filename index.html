@@ -17,31 +17,48 @@
 
 <main class="content-wrapper">
 
-  <section class="box">
+  <section class="box map-box">
     <div class="box-header">
-      <h3 id="map-title">Loading...</h3>
+      <h3 id="map-title">Placeholder</h3>
     </div>
 
     <div class="box-body">
-
       <div id="controls">
         <label for="dataset-select"><strong>Dataset:</strong></label>
         <select id="dataset-select">
           <option value="cases">Cases</option>
           <option value="deaths">Deaths</option>
         </select>
+
         <input type="range" id="slider" min="0" max="0" step="1">
         <span id="date-label"></span>
       </div>
-      <div id="top-counties" class="top-counties-box"></div>
-      <div id="map"></div>
 
+      <div id="top-counties" class="top-counties-box"></div>
+
+      <div id="map"></div>
+    </div>
+  </section>
+
+  <section class="box chart-box">
+    <div class="box-header">
+      <h3>County Trend Chart</h3>
+    </div>
+
+    <div class="box-body">
+      <div class="chart-controls">
+        <label for="county-select"><strong>Select County:</strong></label>
+        <select id="county-select"></select>
+      </div>
+
+      <div id="trend-chart"></div>
     </div>
   </section>
 
 </main>
 
 <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+<script src="https://code.highcharts.com/highcharts.js"></script>
 <script src="js/scripts.js"></script>
 
 </body>
