@@ -240,11 +240,6 @@
     "cases": 104052
   },
   {
-    "county": "Alamance",
-    "week": "2021-02-16",
-    "cases": 60730
-  },
-  {
     "county": "Alexander",
     "week": "2020-03-24",
     "cases": 1
@@ -478,11 +473,6 @@
     "county": "Alexander",
     "week": "2021-02-09",
     "cases": 26105
-  },
-  {
-    "county": "Alexander",
-    "week": "2021-02-16",
-    "cases": 15233
   },
   {
     "county": "Alleghany",
@@ -720,11 +710,6 @@
     "cases": 6144
   },
   {
-    "county": "Alleghany",
-    "week": "2021-02-16",
-    "cases": 3578
-  },
-  {
     "county": "Anson",
     "week": "2020-03-31",
     "cases": 19
@@ -953,11 +938,6 @@
     "county": "Anson",
     "week": "2021-02-09",
     "cases": 15304
-  },
-  {
-    "county": "Anson",
-    "week": "2021-02-16",
-    "cases": 8896
   },
   {
     "county": "Ashe",
@@ -1190,11 +1170,6 @@
     "cases": 12422
   },
   {
-    "county": "Ashe",
-    "week": "2021-02-16",
-    "cases": 7218
-  },
-  {
     "county": "Avery",
     "week": "2020-05-19",
     "cases": 11
@@ -1388,11 +1363,6 @@
     "county": "Avery",
     "week": "2021-02-09",
     "cases": 12368
-  },
-  {
-    "county": "Avery",
-    "week": "2021-02-16",
-    "cases": 7139
   },
   {
     "county": "Beaufort",
@@ -1630,11 +1600,6 @@
     "cases": 28203
   },
   {
-    "county": "Beaufort",
-    "week": "2021-02-16",
-    "cases": 16458
-  },
-  {
     "county": "Bertie",
     "week": "2020-03-24",
     "cases": 19
@@ -1870,11 +1835,6 @@
     "cases": 11102
   },
   {
-    "county": "Bertie",
-    "week": "2021-02-16",
-    "cases": 6410
-  },
-  {
     "county": "Bladen",
     "week": "2020-03-31",
     "cases": 4
@@ -2103,11 +2063,6 @@
     "county": "Bladen",
     "week": "2021-02-09",
     "cases": 19596
-  },
-  {
-    "county": "Bladen",
-    "week": "2021-02-16",
-    "cases": 11373
   },
   {
     "county": "Brunswick",
@@ -2355,11 +2310,6 @@
     "cases": 51367
   },
   {
-    "county": "Brunswick",
-    "week": "2021-02-16",
-    "cases": 30517
-  },
-  {
     "county": "Buncombe",
     "week": "2020-03-17",
     "cases": 3
@@ -2600,11 +2550,6 @@
     "cases": 100968
   },
   {
-    "county": "Buncombe",
-    "week": "2021-02-16",
-    "cases": 59130
-  },
-  {
     "county": "Burke",
     "week": "2020-03-24",
     "cases": 17
@@ -2838,11 +2783,6 @@
     "county": "Burke",
     "week": "2021-02-09",
     "cases": 61853
-  },
-  {
-    "county": "Burke",
-    "week": "2021-02-16",
-    "cases": 35985
   },
   {
     "county": "Cabarrus",
@@ -3090,11 +3030,6 @@
     "cases": 121669
   },
   {
-    "county": "Cabarrus",
-    "week": "2021-02-16",
-    "cases": 71112
-  },
-  {
     "county": "Caldwell",
     "week": "2020-03-24",
     "cases": 16
@@ -3330,11 +3265,6 @@
     "cases": 58168
   },
   {
-    "county": "Caldwell",
-    "week": "2021-02-16",
-    "cases": 33642
-  },
-  {
     "county": "Camden",
     "week": "2020-04-21",
     "cases": 1
@@ -3548,11 +3478,6 @@
     "county": "Camden",
     "week": "2021-02-09",
     "cases": 3610
-  },
-  {
-    "county": "Camden",
-    "week": "2021-02-16",
-    "cases": 2186
   },
   {
     "county": "Carteret",
@@ -3795,11 +3720,6 @@
     "cases": 29033
   },
   {
-    "county": "Carteret",
-    "week": "2021-02-16",
-    "cases": 16989
-  },
-  {
     "county": "Caswell",
     "week": "2020-03-24",
     "cases": 2
@@ -4033,11 +3953,6 @@
     "county": "Caswell",
     "week": "2021-02-09",
     "cases": 12995
-  },
-  {
-    "county": "Caswell",
-    "week": "2021-02-16",
-    "cases": 7567
   },
   {
     "county": "Catawba",
@@ -4278,11 +4193,6 @@
     "county": "Catawba",
     "week": "2021-02-09",
     "cases": 116828
-  },
-  {
-    "county": "Catawba",
-    "week": "2021-02-16",
-    "cases": 67924
   },
   {
     "county": "Chatham",
@@ -4535,11 +4445,6 @@
     "cases": 27792
   },
   {
-    "county": "Chatham",
-    "week": "2021-02-16",
-    "cases": 16147
-  },
-  {
     "county": "Cherokee",
     "week": "2020-03-17",
     "cases": 8
@@ -4780,11 +4685,6 @@
     "cases": 13873
   },
   {
-    "county": "Cherokee",
-    "week": "2021-02-16",
-    "cases": 8116
-  },
-  {
     "county": "Chowan",
     "week": "2020-03-31",
     "cases": 4
@@ -5015,11 +4915,6 @@
     "cases": 9122
   },
   {
-    "county": "Chowan",
-    "week": "2021-02-16",
-    "cases": 5312
-  },
-  {
     "county": "Clay",
     "week": "2020-03-31",
     "cases": 16
@@ -5248,11 +5143,6 @@
     "county": "Clay",
     "week": "2021-02-09",
     "cases": 4386
-  },
-  {
-    "county": "Clay",
-    "week": "2021-02-16",
-    "cases": 2549
   },
   {
     "county": "Cleveland",
@@ -5490,11 +5380,6 @@
     "cases": 68322
   },
   {
-    "county": "Cleveland",
-    "week": "2021-02-16",
-    "cases": 39742
-  },
-  {
     "county": "Columbus",
     "week": "2020-03-24",
     "cases": 3
@@ -5728,11 +5613,6 @@
     "county": "Columbus",
     "week": "2021-02-09",
     "cases": 38524
-  },
-  {
-    "county": "Columbus",
-    "week": "2021-02-16",
-    "cases": 22499
   },
   {
     "county": "Craven",
@@ -5980,11 +5860,6 @@
     "cases": 54500
   },
   {
-    "county": "Craven",
-    "week": "2021-02-16",
-    "cases": 31951
-  },
-  {
     "county": "Cumberland",
     "week": "2020-03-17",
     "cases": 4
@@ -6225,11 +6100,6 @@
     "cases": 157694
   },
   {
-    "county": "Cumberland",
-    "week": "2021-02-16",
-    "cases": 92367
-  },
-  {
     "county": "Currituck",
     "week": "2020-03-24",
     "cases": 2
@@ -6465,11 +6335,6 @@
     "cases": 8607
   },
   {
-    "county": "Currituck",
-    "week": "2021-02-16",
-    "cases": 5196
-  },
-  {
     "county": "Dare",
     "week": "2020-03-31",
     "cases": 7
@@ -6698,11 +6563,6 @@
     "county": "Dare",
     "week": "2021-02-09",
     "cases": 12570
-  },
-  {
-    "county": "Dare",
-    "week": "2021-02-16",
-    "cases": 7297
   },
   {
     "county": "Davidson",
@@ -6945,11 +6805,6 @@
     "cases": 97635
   },
   {
-    "county": "Davidson",
-    "week": "2021-02-16",
-    "cases": 56990
-  },
-  {
     "county": "Davie",
     "week": "2020-03-17",
     "cases": 2
@@ -7190,11 +7045,6 @@
     "cases": 23327
   },
   {
-    "county": "Davie",
-    "week": "2021-02-16",
-    "cases": 13661
-  },
-  {
     "county": "Duplin",
     "week": "2020-03-24",
     "cases": 6
@@ -7428,11 +7278,6 @@
     "county": "Duplin",
     "week": "2021-02-09",
     "cases": 38392
-  },
-  {
-    "county": "Duplin",
-    "week": "2021-02-16",
-    "cases": 22270
   },
   {
     "county": "Durham",
@@ -7680,11 +7525,6 @@
     "cases": 147182
   },
   {
-    "county": "Durham",
-    "week": "2021-02-16",
-    "cases": 85962
-  },
-  {
     "county": "Edgecombe",
     "week": "2020-03-24",
     "cases": 3
@@ -7918,11 +7758,6 @@
     "county": "Edgecombe",
     "week": "2021-02-09",
     "cases": 30497
-  },
-  {
-    "county": "Edgecombe",
-    "week": "2021-02-16",
-    "cases": 17942
   },
   {
     "county": "Forsyth",
@@ -8170,11 +8005,6 @@
     "cases": 210637
   },
   {
-    "county": "Forsyth",
-    "week": "2021-02-16",
-    "cases": 123184
-  },
-  {
     "county": "Franklin",
     "week": "2020-03-17",
     "cases": 16
@@ -8413,11 +8243,6 @@
     "county": "Franklin",
     "week": "2021-02-09",
     "cases": 34879
-  },
-  {
-    "county": "Franklin",
-    "week": "2021-02-16",
-    "cases": 20388
   },
   {
     "county": "Gaston",
@@ -8660,11 +8485,6 @@
     "cases": 158082
   },
   {
-    "county": "Gaston",
-    "week": "2021-02-16",
-    "cases": 92138
-  },
-  {
     "county": "Gates",
     "week": "2020-03-31",
     "cases": 5
@@ -8895,11 +8715,6 @@
     "cases": 4280
   },
   {
-    "county": "Gates",
-    "week": "2021-02-16",
-    "cases": 2564
-  },
-  {
     "county": "Graham",
     "week": "2020-04-28",
     "cases": 8
@@ -9108,11 +8923,6 @@
     "county": "Graham",
     "week": "2021-02-09",
     "cases": 3822
-  },
-  {
-    "county": "Graham",
-    "week": "2021-02-16",
-    "cases": 2198
   },
   {
     "county": "Granville",
@@ -9355,11 +9165,6 @@
     "cases": 34798
   },
   {
-    "county": "Granville",
-    "week": "2021-02-16",
-    "cases": 20220
-  },
-  {
     "county": "Greene",
     "week": "2020-03-24",
     "cases": 12
@@ -9593,11 +9398,6 @@
     "county": "Greene",
     "week": "2021-02-09",
     "cases": 14565
-  },
-  {
-    "county": "Greene",
-    "week": "2021-02-16",
-    "cases": 8436
   },
   {
     "county": "Guilford",
@@ -9840,11 +9640,6 @@
     "cases": 264494
   },
   {
-    "county": "Guilford",
-    "week": "2021-02-16",
-    "cases": 154488
-  },
-  {
     "county": "Halifax",
     "week": "2020-03-24",
     "cases": 4
@@ -10078,11 +9873,6 @@
     "county": "Halifax",
     "week": "2021-02-09",
     "cases": 33788
-  },
-  {
-    "county": "Halifax",
-    "week": "2021-02-16",
-    "cases": 19597
   },
   {
     "county": "Harnett",
@@ -10330,11 +10120,6 @@
     "cases": 62963
   },
   {
-    "county": "Harnett",
-    "week": "2021-02-16",
-    "cases": 36871
-  },
-  {
     "county": "Haywood",
     "week": "2020-03-31",
     "cases": 8
@@ -10563,11 +10348,6 @@
     "county": "Haywood",
     "week": "2021-02-09",
     "cases": 25416
-  },
-  {
-    "county": "Haywood",
-    "week": "2021-02-16",
-    "cases": 14885
   },
   {
     "county": "Henderson",
@@ -10810,11 +10590,6 @@
     "cases": 58226
   },
   {
-    "county": "Henderson",
-    "week": "2021-02-16",
-    "cases": 33875
-  },
-  {
     "county": "Hertford",
     "week": "2020-03-24",
     "cases": 11
@@ -11048,11 +10823,6 @@
     "county": "Hertford",
     "week": "2021-02-09",
     "cases": 13133
-  },
-  {
-    "county": "Hertford",
-    "week": "2021-02-16",
-    "cases": 7613
   },
   {
     "county": "Hoke",
@@ -11295,11 +11065,6 @@
     "cases": 27394
   },
   {
-    "county": "Hoke",
-    "week": "2021-02-16",
-    "cases": 15923
-  },
-  {
     "county": "Hyde",
     "week": "2020-04-28",
     "cases": 6
@@ -11508,11 +11273,6 @@
     "county": "Hyde",
     "week": "2021-02-09",
     "cases": 4278
-  },
-  {
-    "county": "Hyde",
-    "week": "2021-02-16",
-    "cases": 2460
   },
   {
     "county": "Iredell",
@@ -11755,11 +11515,6 @@
     "cases": 108381
   },
   {
-    "county": "Iredell",
-    "week": "2021-02-16",
-    "cases": 63312
-  },
-  {
     "county": "Jackson",
     "week": "2020-04-07",
     "cases": 2
@@ -11983,11 +11738,6 @@
     "county": "Jackson",
     "week": "2021-02-09",
     "cases": 21936
-  },
-  {
-    "county": "Jackson",
-    "week": "2021-02-16",
-    "cases": 12665
   },
   {
     "county": "Johnston",
@@ -12235,11 +11985,6 @@
     "cases": 118964
   },
   {
-    "county": "Johnston",
-    "week": "2021-02-16",
-    "cases": 69489
-  },
-  {
     "county": "Jones",
     "week": "2020-04-07",
     "cases": 26
@@ -12463,11 +12208,6 @@
     "county": "Jones",
     "week": "2021-02-09",
     "cases": 4563
-  },
-  {
-    "county": "Jones",
-    "week": "2021-02-16",
-    "cases": 2711
   },
   {
     "county": "Lee",
@@ -12710,11 +12450,6 @@
     "cases": 36097
   },
   {
-    "county": "Lee",
-    "week": "2021-02-16",
-    "cases": 21131
-  },
-  {
     "county": "Lenoir",
     "week": "2020-03-24",
     "cases": 16
@@ -12948,11 +12683,6 @@
     "county": "Lenoir",
     "week": "2021-02-09",
     "cases": 35837
-  },
-  {
-    "county": "Lenoir",
-    "week": "2021-02-16",
-    "cases": 21055
   },
   {
     "county": "Lincoln",
@@ -13195,11 +12925,6 @@
     "cases": 58600
   },
   {
-    "county": "Lincoln",
-    "week": "2021-02-16",
-    "cases": 34122
-  },
-  {
     "county": "Macon",
     "week": "2020-03-31",
     "cases": 5
@@ -13430,11 +13155,6 @@
     "cases": 17171
   },
   {
-    "county": "Macon",
-    "week": "2021-02-16",
-    "cases": 10025
-  },
-  {
     "county": "Madison",
     "week": "2020-04-21",
     "cases": 3
@@ -13648,11 +13368,6 @@
     "county": "Madison",
     "week": "2021-02-09",
     "cases": 8999
-  },
-  {
-    "county": "Madison",
-    "week": "2021-02-16",
-    "cases": 5230
   },
   {
     "county": "Martin",
@@ -13883,11 +13598,6 @@
     "county": "Martin",
     "week": "2021-02-09",
     "cases": 13756
-  },
-  {
-    "county": "Martin",
-    "week": "2021-02-16",
-    "cases": 8035
   },
   {
     "county": "McDowell",
@@ -14123,11 +13833,6 @@
     "county": "McDowell",
     "week": "2021-02-09",
     "cases": 32007
-  },
-  {
-    "county": "McDowell",
-    "week": "2021-02-16",
-    "cases": 18691
   },
   {
     "county": "Mecklenburg",
@@ -14375,11 +14080,6 @@
     "cases": 643815
   },
   {
-    "county": "Mecklenburg",
-    "week": "2021-02-16",
-    "cases": 375269
-  },
-  {
     "county": "Mitchell",
     "week": "2020-03-31",
     "cases": 5
@@ -14608,11 +14308,6 @@
     "county": "Mitchell",
     "week": "2021-02-09",
     "cases": 8464
-  },
-  {
-    "county": "Mitchell",
-    "week": "2021-02-16",
-    "cases": 4898
   },
   {
     "county": "Montgomery",
@@ -14848,11 +14543,6 @@
     "county": "Montgomery",
     "week": "2021-02-09",
     "cases": 20214
-  },
-  {
-    "county": "Montgomery",
-    "week": "2021-02-16",
-    "cases": 11784
   },
   {
     "county": "Moore",
@@ -15095,11 +14785,6 @@
     "cases": 52730
   },
   {
-    "county": "Moore",
-    "week": "2021-02-16",
-    "cases": 30644
-  },
-  {
     "county": "Nash",
     "week": "2020-03-17",
     "cases": 2
@@ -15338,11 +15023,6 @@
     "county": "Nash",
     "week": "2021-02-09",
     "cases": 63805
-  },
-  {
-    "county": "Nash",
-    "week": "2021-02-16",
-    "cases": 37410
   },
   {
     "county": "New Hanover",
@@ -15585,11 +15265,6 @@
     "cases": 104909
   },
   {
-    "county": "New Hanover",
-    "week": "2021-02-16",
-    "cases": 62013
-  },
-  {
     "county": "Northampton",
     "week": "2020-03-24",
     "cases": 62
@@ -15823,11 +15498,6 @@
     "county": "Northampton",
     "week": "2021-02-09",
     "cases": 11435
-  },
-  {
-    "county": "Northampton",
-    "week": "2021-02-16",
-    "cases": 6607
   },
   {
     "county": "Onslow",
@@ -16075,11 +15745,6 @@
     "cases": 98058
   },
   {
-    "county": "Onslow",
-    "week": "2021-02-16",
-    "cases": 57024
-  },
-  {
     "county": "Orange",
     "week": "2020-03-17",
     "cases": 17
@@ -16320,11 +15985,6 @@
     "cases": 51172
   },
   {
-    "county": "Orange",
-    "week": "2021-02-16",
-    "cases": 29961
-  },
-  {
     "county": "Pamlico",
     "week": "2020-03-24",
     "cases": 2
@@ -16558,11 +16218,6 @@
     "county": "Pamlico",
     "week": "2021-02-09",
     "cases": 6027
-  },
-  {
-    "county": "Pamlico",
-    "week": "2021-02-16",
-    "cases": 3593
   },
   {
     "county": "Pasquotank",
@@ -16805,11 +16460,6 @@
     "cases": 20302
   },
   {
-    "county": "Pasquotank",
-    "week": "2021-02-16",
-    "cases": 11876
-  },
-  {
     "county": "Pender",
     "week": "2020-03-31",
     "cases": 3
@@ -17038,11 +16688,6 @@
     "county": "Pender",
     "week": "2021-02-09",
     "cases": 30576
-  },
-  {
-    "county": "Pender",
-    "week": "2021-02-16",
-    "cases": 17875
   },
   {
     "county": "Perquimans",
@@ -17280,11 +16925,6 @@
     "cases": 5852
   },
   {
-    "county": "Perquimans",
-    "week": "2021-02-16",
-    "cases": 3445
-  },
-  {
     "county": "Person",
     "week": "2020-03-24",
     "cases": 4
@@ -17518,11 +17158,6 @@
     "county": "Person",
     "week": "2021-02-09",
     "cases": 19432
-  },
-  {
-    "county": "Person",
-    "week": "2021-02-16",
-    "cases": 11398
   },
   {
     "county": "Pitt",
@@ -17765,11 +17400,6 @@
     "cases": 115579
   },
   {
-    "county": "Pitt",
-    "week": "2021-02-16",
-    "cases": 67492
-  },
-  {
     "county": "Polk",
     "week": "2020-03-24",
     "cases": 6
@@ -18003,11 +17633,6 @@
     "county": "Polk",
     "week": "2021-02-09",
     "cases": 8936
-  },
-  {
-    "county": "Polk",
-    "week": "2021-02-16",
-    "cases": 5221
   },
   {
     "county": "Randolph",
@@ -18245,11 +17870,6 @@
     "cases": 86670
   },
   {
-    "county": "Randolph",
-    "week": "2021-02-16",
-    "cases": 50751
-  },
-  {
     "county": "Richmond",
     "week": "2020-04-07",
     "cases": 35
@@ -18473,11 +18093,6 @@
     "county": "Richmond",
     "week": "2021-02-09",
     "cases": 27808
-  },
-  {
-    "county": "Richmond",
-    "week": "2021-02-16",
-    "cases": 16230
   },
   {
     "county": "Robeson",
@@ -18720,11 +18335,6 @@
     "cases": 98000
   },
   {
-    "county": "Robeson",
-    "week": "2021-02-16",
-    "cases": 56837
-  },
-  {
     "county": "Rockingham",
     "week": "2020-03-31",
     "cases": 25
@@ -18953,11 +18563,6 @@
     "county": "Rockingham",
     "week": "2021-02-09",
     "cases": 45813
-  },
-  {
-    "county": "Rockingham",
-    "week": "2021-02-16",
-    "cases": 26544
   },
   {
     "county": "Rowan",
@@ -19200,11 +18805,6 @@
     "cases": 98552
   },
   {
-    "county": "Rowan",
-    "week": "2021-02-16",
-    "cases": 57583
-  },
-  {
     "county": "Rutherford",
     "week": "2020-03-24",
     "cases": 1
@@ -19438,11 +19038,6 @@
     "county": "Rutherford",
     "week": "2021-02-09",
     "cases": 45536
-  },
-  {
-    "county": "Rutherford",
-    "week": "2021-02-16",
-    "cases": 26456
   },
   {
     "county": "Sampson",
@@ -19685,11 +19280,6 @@
     "cases": 44689
   },
   {
-    "county": "Sampson",
-    "week": "2021-02-16",
-    "cases": 25965
-  },
-  {
     "county": "Scotland",
     "week": "2020-03-17",
     "cases": 2
@@ -19928,11 +19518,6 @@
     "county": "Scotland",
     "week": "2021-02-09",
     "cases": 23260
-  },
-  {
-    "county": "Scotland",
-    "week": "2021-02-16",
-    "cases": 13536
   },
   {
     "county": "Stanly",
@@ -20175,11 +19760,6 @@
     "cases": 44596
   },
   {
-    "county": "Stanly",
-    "week": "2021-02-16",
-    "cases": 26074
-  },
-  {
     "county": "Stokes",
     "week": "2020-03-31",
     "cases": 24
@@ -20408,11 +19988,6 @@
     "county": "Stokes",
     "week": "2021-02-09",
     "cases": 24154
-  },
-  {
-    "county": "Stokes",
-    "week": "2021-02-16",
-    "cases": 14162
   },
   {
     "county": "Surry",
@@ -20650,11 +20225,6 @@
     "cases": 48544
   },
   {
-    "county": "Surry",
-    "week": "2021-02-16",
-    "cases": 28501
-  },
-  {
     "county": "Swain",
     "week": "2020-04-28",
     "cases": 21
@@ -20863,11 +20433,6 @@
     "county": "Swain",
     "week": "2021-02-09",
     "cases": 7767
-  },
-  {
-    "county": "Swain",
-    "week": "2021-02-16",
-    "cases": 4526
   },
   {
     "county": "Transylvania",
@@ -21105,11 +20670,6 @@
     "cases": 12410
   },
   {
-    "county": "Transylvania",
-    "week": "2021-02-16",
-    "cases": 7332
-  },
-  {
     "county": "Tyrrell",
     "week": "2020-04-14",
     "cases": 25
@@ -21328,11 +20888,6 @@
     "county": "Tyrrell",
     "week": "2021-02-09",
     "cases": 2002
-  },
-  {
-    "county": "Tyrrell",
-    "week": "2021-02-16",
-    "cases": 1177
   },
   {
     "county": "Union",
@@ -21575,16 +21130,6 @@
     "cases": 136950
   },
   {
-    "county": "Union",
-    "week": "2021-02-16",
-    "cases": 79871
-  },
-  {
-    "county": "Unknown",
-    "week": "2021-01-19",
-    "cases": 998
-  },
-  {
     "county": "Vance",
     "week": "2020-03-17",
     "cases": 1
@@ -21823,11 +21368,6 @@
     "county": "Vance",
     "week": "2021-02-09",
     "cases": 27933
-  },
-  {
-    "county": "Vance",
-    "week": "2021-02-16",
-    "cases": 16417
   },
   {
     "county": "Wake",
@@ -22080,11 +21620,6 @@
     "cases": 498942
   },
   {
-    "county": "Wake",
-    "week": "2021-02-16",
-    "cases": 291303
-  },
-  {
     "county": "Warren",
     "week": "2020-03-31",
     "cases": 5
@@ -22313,11 +21848,6 @@
     "county": "Warren",
     "week": "2021-02-09",
     "cases": 10638
-  },
-  {
-    "county": "Warren",
-    "week": "2021-02-16",
-    "cases": 6191
   },
   {
     "county": "Washington",
@@ -22553,11 +22083,6 @@
     "county": "Washington",
     "week": "2021-02-09",
     "cases": 6296
-  },
-  {
-    "county": "Washington",
-    "week": "2021-02-16",
-    "cases": 3770
   },
   {
     "county": "Watauga",
@@ -22805,11 +22330,6 @@
     "cases": 25643
   },
   {
-    "county": "Watauga",
-    "week": "2021-02-16",
-    "cases": 15056
-  },
-  {
     "county": "Wayne",
     "week": "2020-03-10",
     "cases": 4
@@ -23055,11 +22575,6 @@
     "cases": 69082
   },
   {
-    "county": "Wayne",
-    "week": "2021-02-16",
-    "cases": 40160
-  },
-  {
     "county": "Wilkes",
     "week": "2020-03-31",
     "cases": 24
@@ -23288,11 +22803,6 @@
     "county": "Wilkes",
     "week": "2021-02-09",
     "cases": 40300
-  },
-  {
-    "county": "Wilkes",
-    "week": "2021-02-16",
-    "cases": 23391
   },
   {
     "county": "Wilson",
@@ -23540,11 +23050,6 @@
     "cases": 55584
   },
   {
-    "county": "Wilson",
-    "week": "2021-02-16",
-    "cases": 32455
-  },
-  {
     "county": "Yadkin",
     "week": "2020-03-24",
     "cases": 3
@@ -23780,11 +23285,6 @@
     "cases": 24371
   },
   {
-    "county": "Yadkin",
-    "week": "2021-02-16",
-    "cases": 14172
-  },
-  {
     "county": "Yancey",
     "week": "2020-04-28",
     "cases": 2
@@ -23993,10 +23493,5 @@
     "county": "Yancey",
     "week": "2021-02-09",
     "cases": 9719
-  },
-  {
-    "county": "Yancey",
-    "week": "2021-02-16",
-    "cases": 5602
   }
 ]
