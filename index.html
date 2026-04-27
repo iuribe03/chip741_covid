@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Historical COVID-19 Dashboard</title>
+
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css"/>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+
+<header class="site-header">
+  <h1>Historical COVID-19 Dashboard</h1>
+</header>
+
+<main class="content-wrapper">
+
+  <section class="box">
+    <div class="box-header">
+      <h3 id="map-title">Loading...</h3>
+    </div>
+
+    <div class="box-body">
+
+      <div id="controls">
+        <label for="dataset-select"><strong>Dataset:</strong></label>
+        <select id="dataset-select">
+          <option value="cases">Cases</option>
+          <option value="deaths">Deaths</option>
+        </select>
+        <input type="range" id="slider" min="0" max="0" step="1">
+        <span id="date-label"></span>
+      </div>
+      <div id="top-counties" class="top-counties-box"></div>
+      <div id="map"></div>
+
+    </div>
+  </section>
+
+</main>
+
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+<script src="js/scripts.js"></script>
+
+</body>
+</html>
