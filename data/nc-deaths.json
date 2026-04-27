@@ -240,11 +240,6 @@
     "deaths": 1372
   },
   {
-    "county": "Alamance",
-    "week": "2021-02-16",
-    "deaths": 852
-  },
-  {
     "county": "Alexander",
     "week": "2020-03-24",
     "deaths": 0
@@ -478,11 +473,6 @@
     "county": "Alexander",
     "week": "2021-02-09",
     "deaths": 487
-  },
-  {
-    "county": "Alexander",
-    "week": "2021-02-16",
-    "deaths": 286
   },
   {
     "county": "Alleghany",
@@ -720,11 +710,6 @@
     "deaths": 28
   },
   {
-    "county": "Alleghany",
-    "week": "2021-02-16",
-    "deaths": 16
-  },
-  {
     "county": "Anson",
     "week": "2020-03-31",
     "deaths": 0
@@ -953,11 +938,6 @@
     "county": "Anson",
     "week": "2021-02-09",
     "deaths": 333
-  },
-  {
-    "county": "Anson",
-    "week": "2021-02-16",
-    "deaths": 204
   },
   {
     "county": "Ashe",
@@ -1190,11 +1170,6 @@
     "deaths": 259
   },
   {
-    "county": "Ashe",
-    "week": "2021-02-16",
-    "deaths": 160
-  },
-  {
     "county": "Avery",
     "week": "2020-05-19",
     "deaths": 0
@@ -1388,11 +1363,6 @@
     "county": "Avery",
     "week": "2021-02-09",
     "deaths": 126
-  },
-  {
-    "county": "Avery",
-    "week": "2021-02-16",
-    "deaths": 75
   },
   {
     "county": "Beaufort",
@@ -1630,11 +1600,6 @@
     "deaths": 541
   },
   {
-    "county": "Beaufort",
-    "week": "2021-02-16",
-    "deaths": 316
-  },
-  {
     "county": "Bertie",
     "week": "2020-03-24",
     "deaths": 0
@@ -1870,11 +1835,6 @@
     "deaths": 269
   },
   {
-    "county": "Bertie",
-    "week": "2021-02-16",
-    "deaths": 156
-  },
-  {
     "county": "Bladen",
     "week": "2020-03-31",
     "deaths": 0
@@ -2103,11 +2063,6 @@
     "county": "Bladen",
     "week": "2021-02-09",
     "deaths": 260
-  },
-  {
-    "county": "Bladen",
-    "week": "2021-02-16",
-    "deaths": 152
   },
   {
     "county": "Brunswick",
@@ -2355,11 +2310,6 @@
     "deaths": 797
   },
   {
-    "county": "Brunswick",
-    "week": "2021-02-16",
-    "deaths": 491
-  },
-  {
     "county": "Buncombe",
     "week": "2020-03-17",
     "deaths": 0
@@ -2600,11 +2550,6 @@
     "deaths": 1974
   },
   {
-    "county": "Buncombe",
-    "week": "2021-02-16",
-    "deaths": 1157
-  },
-  {
     "county": "Burke",
     "week": "2020-03-24",
     "deaths": 0
@@ -2838,11 +2783,6 @@
     "county": "Burke",
     "week": "2021-02-09",
     "deaths": 848
-  },
-  {
-    "county": "Burke",
-    "week": "2021-02-16",
-    "deaths": 526
   },
   {
     "county": "Cabarrus",
@@ -3090,11 +3030,6 @@
     "deaths": 1526
   },
   {
-    "county": "Cabarrus",
-    "week": "2021-02-16",
-    "deaths": 890
-  },
-  {
     "county": "Caldwell",
     "week": "2020-03-24",
     "deaths": 0
@@ -3330,11 +3265,6 @@
     "deaths": 434
   },
   {
-    "county": "Caldwell",
-    "week": "2021-02-16",
-    "deaths": 264
-  },
-  {
     "county": "Camden",
     "week": "2020-04-21",
     "deaths": 0
@@ -3548,11 +3478,6 @@
     "county": "Camden",
     "week": "2021-02-09",
     "deaths": 35
-  },
-  {
-    "county": "Camden",
-    "week": "2021-02-16",
-    "deaths": 20
   },
   {
     "county": "Carteret",
@@ -3795,11 +3720,6 @@
     "deaths": 273
   },
   {
-    "county": "Carteret",
-    "week": "2021-02-16",
-    "deaths": 172
-  },
-  {
     "county": "Caswell",
     "week": "2020-03-24",
     "deaths": 0
@@ -4033,11 +3953,6 @@
     "county": "Caswell",
     "week": "2021-02-09",
     "deaths": 123
-  },
-  {
-    "county": "Caswell",
-    "week": "2021-02-16",
-    "deaths": 76
   },
   {
     "county": "Catawba",
@@ -4278,11 +4193,6 @@
     "county": "Catawba",
     "week": "2021-02-09",
     "deaths": 1824
-  },
-  {
-    "county": "Catawba",
-    "week": "2021-02-16",
-    "deaths": 1076
   },
   {
     "county": "Chatham",
@@ -4535,11 +4445,6 @@
     "deaths": 498
   },
   {
-    "county": "Chatham",
-    "week": "2021-02-16",
-    "deaths": 295
-  },
-  {
     "county": "Cherokee",
     "week": "2020-03-17",
     "deaths": 0
@@ -4780,11 +4685,6 @@
     "deaths": 119
   },
   {
-    "county": "Cherokee",
-    "week": "2021-02-16",
-    "deaths": 68
-  },
-  {
     "county": "Chowan",
     "week": "2020-03-31",
     "deaths": 0
@@ -5015,11 +4915,6 @@
     "deaths": 147
   },
   {
-    "county": "Chowan",
-    "week": "2021-02-16",
-    "deaths": 85
-  },
-  {
     "county": "Clay",
     "week": "2020-03-31",
     "deaths": 0
@@ -5248,11 +5143,6 @@
     "county": "Clay",
     "week": "2021-02-09",
     "deaths": 119
-  },
-  {
-    "county": "Clay",
-    "week": "2021-02-16",
-    "deaths": 72
   },
   {
     "county": "Cleveland",
@@ -5490,11 +5380,6 @@
     "deaths": 1453
   },
   {
-    "county": "Cleveland",
-    "week": "2021-02-16",
-    "deaths": 842
-  },
-  {
     "county": "Columbus",
     "week": "2020-03-24",
     "deaths": 0
@@ -5728,11 +5613,6 @@
     "county": "Columbus",
     "week": "2021-02-09",
     "deaths": 926
-  },
-  {
-    "county": "Columbus",
-    "week": "2021-02-16",
-    "deaths": 536
   },
   {
     "county": "Craven",
@@ -5980,11 +5860,6 @@
     "deaths": 778
   },
   {
-    "county": "Craven",
-    "week": "2021-02-16",
-    "deaths": 452
-  },
-  {
     "county": "Cumberland",
     "week": "2020-03-17",
     "deaths": 0
@@ -6225,11 +6100,6 @@
     "deaths": 1709
   },
   {
-    "county": "Cumberland",
-    "week": "2021-02-16",
-    "deaths": 1019
-  },
-  {
     "county": "Currituck",
     "week": "2020-03-24",
     "deaths": 0
@@ -6465,11 +6335,6 @@
     "deaths": 98
   },
   {
-    "county": "Currituck",
-    "week": "2021-02-16",
-    "deaths": 57
-  },
-  {
     "county": "Dare",
     "week": "2020-03-31",
     "deaths": 0
@@ -6698,11 +6563,6 @@
     "county": "Dare",
     "week": "2021-02-09",
     "deaths": 53
-  },
-  {
-    "county": "Dare",
-    "week": "2021-02-16",
-    "deaths": 32
   },
   {
     "county": "Davidson",
@@ -6945,11 +6805,6 @@
     "deaths": 1018
   },
   {
-    "county": "Davidson",
-    "week": "2021-02-16",
-    "deaths": 594
-  },
-  {
     "county": "Davie",
     "week": "2020-03-17",
     "deaths": 0
@@ -7190,11 +7045,6 @@
     "deaths": 157
   },
   {
-    "county": "Davie",
-    "week": "2021-02-16",
-    "deaths": 105
-  },
-  {
     "county": "Duplin",
     "week": "2020-03-24",
     "deaths": 0
@@ -7428,11 +7278,6 @@
     "county": "Duplin",
     "week": "2021-02-09",
     "deaths": 846
-  },
-  {
-    "county": "Duplin",
-    "week": "2021-02-16",
-    "deaths": 484
   },
   {
     "county": "Durham",
@@ -7680,11 +7525,6 @@
     "deaths": 1380
   },
   {
-    "county": "Durham",
-    "week": "2021-02-16",
-    "deaths": 815
-  },
-  {
     "county": "Edgecombe",
     "week": "2020-03-24",
     "deaths": 0
@@ -7918,11 +7758,6 @@
     "county": "Edgecombe",
     "week": "2021-02-09",
     "deaths": 650
-  },
-  {
-    "county": "Edgecombe",
-    "week": "2021-02-16",
-    "deaths": 389
   },
   {
     "county": "Forsyth",
@@ -8170,11 +8005,6 @@
     "deaths": 2188
   },
   {
-    "county": "Forsyth",
-    "week": "2021-02-16",
-    "deaths": 1303
-  },
-  {
     "county": "Franklin",
     "week": "2020-03-17",
     "deaths": 0
@@ -8413,11 +8243,6 @@
     "county": "Franklin",
     "week": "2021-02-09",
     "deaths": 293
-  },
-  {
-    "county": "Franklin",
-    "week": "2021-02-16",
-    "deaths": 168
   },
   {
     "county": "Gaston",
@@ -8660,11 +8485,6 @@
     "deaths": 2497
   },
   {
-    "county": "Gaston",
-    "week": "2021-02-16",
-    "deaths": 1482
-  },
-  {
     "county": "Gates",
     "week": "2020-03-31",
     "deaths": 0
@@ -8895,11 +8715,6 @@
     "deaths": 84
   },
   {
-    "county": "Gates",
-    "week": "2021-02-16",
-    "deaths": 48
-  },
-  {
     "county": "Graham",
     "week": "2020-04-28",
     "deaths": 0
@@ -9108,11 +8923,6 @@
     "county": "Graham",
     "week": "2021-02-09",
     "deaths": 84
-  },
-  {
-    "county": "Graham",
-    "week": "2021-02-16",
-    "deaths": 48
   },
   {
     "county": "Granville",
@@ -9355,11 +9165,6 @@
     "deaths": 518
   },
   {
-    "county": "Granville",
-    "week": "2021-02-16",
-    "deaths": 302
-  },
-  {
     "county": "Greene",
     "week": "2020-03-24",
     "deaths": 0
@@ -9593,11 +9398,6 @@
     "county": "Greene",
     "week": "2021-02-09",
     "deaths": 265
-  },
-  {
-    "county": "Greene",
-    "week": "2021-02-16",
-    "deaths": 152
   },
   {
     "county": "Guilford",
@@ -9840,11 +9640,6 @@
     "deaths": 3390
   },
   {
-    "county": "Guilford",
-    "week": "2021-02-16",
-    "deaths": 2114
-  },
-  {
     "county": "Halifax",
     "week": "2020-03-24",
     "deaths": 0
@@ -10078,11 +9873,6 @@
     "county": "Halifax",
     "week": "2021-02-09",
     "deaths": 636
-  },
-  {
-    "county": "Halifax",
-    "week": "2021-02-16",
-    "deaths": 378
   },
   {
     "county": "Harnett",
@@ -10330,11 +10120,6 @@
     "deaths": 923
   },
   {
-    "county": "Harnett",
-    "week": "2021-02-16",
-    "deaths": 546
-  },
-  {
     "county": "Haywood",
     "week": "2020-03-31",
     "deaths": 0
@@ -10563,11 +10348,6 @@
     "county": "Haywood",
     "week": "2021-02-09",
     "deaths": 567
-  },
-  {
-    "county": "Haywood",
-    "week": "2021-02-16",
-    "deaths": 330
   },
   {
     "county": "Henderson",
@@ -10810,11 +10590,6 @@
     "deaths": 889
   },
   {
-    "county": "Henderson",
-    "week": "2021-02-16",
-    "deaths": 508
-  },
-  {
     "county": "Hertford",
     "week": "2020-03-24",
     "deaths": 0
@@ -11048,11 +10823,6 @@
     "county": "Hertford",
     "week": "2021-02-09",
     "deaths": 391
-  },
-  {
-    "county": "Hertford",
-    "week": "2021-02-16",
-    "deaths": 224
   },
   {
     "county": "Hoke",
@@ -11295,11 +11065,6 @@
     "deaths": 364
   },
   {
-    "county": "Hoke",
-    "week": "2021-02-16",
-    "deaths": 209
-  },
-  {
     "county": "Hyde",
     "week": "2020-04-28",
     "deaths": 0
@@ -11508,11 +11273,6 @@
     "county": "Hyde",
     "week": "2021-02-09",
     "deaths": 45
-  },
-  {
-    "county": "Hyde",
-    "week": "2021-02-16",
-    "deaths": 31
   },
   {
     "county": "Iredell",
@@ -11755,11 +11515,6 @@
     "deaths": 1205
   },
   {
-    "county": "Iredell",
-    "week": "2021-02-16",
-    "deaths": 706
-  },
-  {
     "county": "Jackson",
     "week": "2020-04-07",
     "deaths": 0
@@ -11983,11 +11738,6 @@
     "county": "Jackson",
     "week": "2021-02-09",
     "deaths": 326
-  },
-  {
-    "county": "Jackson",
-    "week": "2021-02-16",
-    "deaths": 190
   },
   {
     "county": "Johnston",
@@ -12235,11 +11985,6 @@
     "deaths": 1224
   },
   {
-    "county": "Johnston",
-    "week": "2021-02-16",
-    "deaths": 725
-  },
-  {
     "county": "Jones",
     "week": "2020-04-07",
     "deaths": 3
@@ -12463,11 +12208,6 @@
     "county": "Jones",
     "week": "2021-02-09",
     "deaths": 112
-  },
-  {
-    "county": "Jones",
-    "week": "2021-02-16",
-    "deaths": 64
   },
   {
     "county": "Lee",
@@ -12710,11 +12450,6 @@
     "deaths": 455
   },
   {
-    "county": "Lee",
-    "week": "2021-02-16",
-    "deaths": 260
-  },
-  {
     "county": "Lenoir",
     "week": "2020-03-24",
     "deaths": 0
@@ -12948,11 +12683,6 @@
     "county": "Lenoir",
     "week": "2021-02-09",
     "deaths": 700
-  },
-  {
-    "county": "Lenoir",
-    "week": "2021-02-16",
-    "deaths": 413
   },
   {
     "county": "Lincoln",
@@ -13195,11 +12925,6 @@
     "deaths": 415
   },
   {
-    "county": "Lincoln",
-    "week": "2021-02-16",
-    "deaths": 253
-  },
-  {
     "county": "Macon",
     "week": "2020-03-31",
     "deaths": 0
@@ -13430,11 +13155,6 @@
     "deaths": 84
   },
   {
-    "county": "Macon",
-    "week": "2021-02-16",
-    "deaths": 74
-  },
-  {
     "county": "Madison",
     "week": "2020-04-21",
     "deaths": 0
@@ -13648,11 +13368,6 @@
     "county": "Madison",
     "week": "2021-02-09",
     "deaths": 222
-  },
-  {
-    "county": "Madison",
-    "week": "2021-02-16",
-    "deaths": 128
   },
   {
     "county": "Martin",
@@ -13883,11 +13598,6 @@
     "county": "Martin",
     "week": "2021-02-09",
     "deaths": 244
-  },
-  {
-    "county": "Martin",
-    "week": "2021-02-16",
-    "deaths": 147
   },
   {
     "county": "McDowell",
@@ -14123,11 +13833,6 @@
     "county": "McDowell",
     "week": "2021-02-09",
     "deaths": 384
-  },
-  {
-    "county": "McDowell",
-    "week": "2021-02-16",
-    "deaths": 220
   },
   {
     "county": "Mecklenburg",
@@ -14375,11 +14080,6 @@
     "deaths": 5743
   },
   {
-    "county": "Mecklenburg",
-    "week": "2021-02-16",
-    "deaths": 3357
-  },
-  {
     "county": "Mitchell",
     "week": "2020-03-31",
     "deaths": 0
@@ -14608,11 +14308,6 @@
     "county": "Mitchell",
     "week": "2021-02-09",
     "deaths": 105
-  },
-  {
-    "county": "Mitchell",
-    "week": "2021-02-16",
-    "deaths": 60
   },
   {
     "county": "Montgomery",
@@ -14848,11 +14543,6 @@
     "county": "Montgomery",
     "week": "2021-02-09",
     "deaths": 549
-  },
-  {
-    "county": "Montgomery",
-    "week": "2021-02-16",
-    "deaths": 331
   },
   {
     "county": "Moore",
@@ -15095,11 +14785,6 @@
     "deaths": 1080
   },
   {
-    "county": "Moore",
-    "week": "2021-02-16",
-    "deaths": 660
-  },
-  {
     "county": "Nash",
     "week": "2020-03-17",
     "deaths": 0
@@ -15338,11 +15023,6 @@
     "county": "Nash",
     "week": "2021-02-09",
     "deaths": 1061
-  },
-  {
-    "county": "Nash",
-    "week": "2021-02-16",
-    "deaths": 641
   },
   {
     "county": "New Hanover",
@@ -15585,11 +15265,6 @@
     "deaths": 948
   },
   {
-    "county": "New Hanover",
-    "week": "2021-02-16",
-    "deaths": 552
-  },
-  {
     "county": "Northampton",
     "week": "2020-03-24",
     "deaths": 0
@@ -15823,11 +15498,6 @@
     "county": "Northampton",
     "week": "2021-02-09",
     "deaths": 196
-  },
-  {
-    "county": "Northampton",
-    "week": "2021-02-16",
-    "deaths": 112
   },
   {
     "county": "Onslow",
@@ -16075,11 +15745,6 @@
     "deaths": 866
   },
   {
-    "county": "Onslow",
-    "week": "2021-02-16",
-    "deaths": 518
-  },
-  {
     "county": "Orange",
     "week": "2020-03-17",
     "deaths": 0
@@ -16320,11 +15985,6 @@
     "deaths": 623
   },
   {
-    "county": "Orange",
-    "week": "2021-02-16",
-    "deaths": 365
-  },
-  {
     "county": "Pamlico",
     "week": "2020-03-24",
     "deaths": 0
@@ -16558,11 +16218,6 @@
     "county": "Pamlico",
     "week": "2021-02-09",
     "deaths": 61
-  },
-  {
-    "county": "Pamlico",
-    "week": "2021-02-16",
-    "deaths": 36
   },
   {
     "county": "Pasquotank",
@@ -16805,11 +16460,6 @@
     "deaths": 518
   },
   {
-    "county": "Pasquotank",
-    "week": "2021-02-16",
-    "deaths": 296
-  },
-  {
     "county": "Pender",
     "week": "2020-03-31",
     "deaths": 0
@@ -17038,11 +16688,6 @@
     "county": "Pender",
     "week": "2021-02-09",
     "deaths": 357
-  },
-  {
-    "county": "Pender",
-    "week": "2021-02-16",
-    "deaths": 208
   },
   {
     "county": "Perquimans",
@@ -17280,11 +16925,6 @@
     "deaths": 39
   },
   {
-    "county": "Perquimans",
-    "week": "2021-02-16",
-    "deaths": 26
-  },
-  {
     "county": "Person",
     "week": "2020-03-24",
     "deaths": 0
@@ -17518,11 +17158,6 @@
     "county": "Person",
     "week": "2021-02-09",
     "deaths": 408
-  },
-  {
-    "county": "Person",
-    "week": "2021-02-16",
-    "deaths": 239
   },
   {
     "county": "Pitt",
@@ -17765,11 +17400,6 @@
     "deaths": 516
   },
   {
-    "county": "Pitt",
-    "week": "2021-02-16",
-    "deaths": 304
-  },
-  {
     "county": "Polk",
     "week": "2020-03-24",
     "deaths": 0
@@ -18003,11 +17633,6 @@
     "county": "Polk",
     "week": "2021-02-09",
     "deaths": 164
-  },
-  {
-    "county": "Polk",
-    "week": "2021-02-16",
-    "deaths": 100
   },
   {
     "county": "Randolph",
@@ -18245,11 +17870,6 @@
     "deaths": 1347
   },
   {
-    "county": "Randolph",
-    "week": "2021-02-16",
-    "deaths": 784
-  },
-  {
     "county": "Richmond",
     "week": "2020-04-07",
     "deaths": 3
@@ -18473,11 +18093,6 @@
     "county": "Richmond",
     "week": "2021-02-09",
     "deaths": 564
-  },
-  {
-    "county": "Richmond",
-    "week": "2021-02-16",
-    "deaths": 342
   },
   {
     "county": "Robeson",
@@ -18720,11 +18335,6 @@
     "deaths": 1302
   },
   {
-    "county": "Robeson",
-    "week": "2021-02-16",
-    "deaths": 763
-  },
-  {
     "county": "Rockingham",
     "week": "2020-03-31",
     "deaths": 5
@@ -18953,11 +18563,6 @@
     "county": "Rockingham",
     "week": "2021-02-09",
     "deaths": 378
-  },
-  {
-    "county": "Rockingham",
-    "week": "2021-02-16",
-    "deaths": 226
   },
   {
     "county": "Rowan",
@@ -19200,11 +18805,6 @@
     "deaths": 1836
   },
   {
-    "county": "Rowan",
-    "week": "2021-02-16",
-    "deaths": 1070
-  },
-  {
     "county": "Rutherford",
     "week": "2020-03-24",
     "deaths": 0
@@ -19438,11 +19038,6 @@
     "county": "Rutherford",
     "week": "2021-02-09",
     "deaths": 1331
-  },
-  {
-    "county": "Rutherford",
-    "week": "2021-02-16",
-    "deaths": 772
   },
   {
     "county": "Sampson",
@@ -19685,11 +19280,6 @@
     "deaths": 594
   },
   {
-    "county": "Sampson",
-    "week": "2021-02-16",
-    "deaths": 345
-  },
-  {
     "county": "Scotland",
     "week": "2020-03-17",
     "deaths": 0
@@ -19928,11 +19518,6 @@
     "county": "Scotland",
     "week": "2021-02-09",
     "deaths": 488
-  },
-  {
-    "county": "Scotland",
-    "week": "2021-02-16",
-    "deaths": 284
   },
   {
     "county": "Stanly",
@@ -20175,11 +19760,6 @@
     "deaths": 721
   },
   {
-    "county": "Stanly",
-    "week": "2021-02-16",
-    "deaths": 418
-  },
-  {
     "county": "Stokes",
     "week": "2020-03-31",
     "deaths": 0
@@ -20408,11 +19988,6 @@
     "county": "Stokes",
     "week": "2021-02-09",
     "deaths": 429
-  },
-  {
-    "county": "Stokes",
-    "week": "2021-02-16",
-    "deaths": 254
   },
   {
     "county": "Surry",
@@ -20650,11 +20225,6 @@
     "deaths": 844
   },
   {
-    "county": "Surry",
-    "week": "2021-02-16",
-    "deaths": 506
-  },
-  {
     "county": "Swain",
     "week": "2020-04-28",
     "deaths": 0
@@ -20863,11 +20433,6 @@
     "county": "Swain",
     "week": "2021-02-09",
     "deaths": 108
-  },
-  {
-    "county": "Swain",
-    "week": "2021-02-16",
-    "deaths": 60
   },
   {
     "county": "Transylvania",
@@ -21105,11 +20670,6 @@
     "deaths": 159
   },
   {
-    "county": "Transylvania",
-    "week": "2021-02-16",
-    "deaths": 99
-  },
-  {
     "county": "Tyrrell",
     "week": "2020-04-14",
     "deaths": 0
@@ -21328,11 +20888,6 @@
     "county": "Tyrrell",
     "week": "2021-02-09",
     "deaths": 42
-  },
-  {
-    "county": "Tyrrell",
-    "week": "2021-02-16",
-    "deaths": 24
   },
   {
     "county": "Union",
@@ -21575,16 +21130,6 @@
     "deaths": 1240
   },
   {
-    "county": "Union",
-    "week": "2021-02-16",
-    "deaths": 751
-  },
-  {
-    "county": "Unknown",
-    "week": "2021-01-19",
-    "deaths": 0
-  },
-  {
     "county": "Vance",
     "week": "2020-03-17",
     "deaths": 0
@@ -21823,11 +21368,6 @@
     "county": "Vance",
     "week": "2021-02-09",
     "deaths": 541
-  },
-  {
-    "county": "Vance",
-    "week": "2021-02-16",
-    "deaths": 312
   },
   {
     "county": "Wake",
@@ -22080,11 +21620,6 @@
     "deaths": 3539
   },
   {
-    "county": "Wake",
-    "week": "2021-02-16",
-    "deaths": 2077
-  },
-  {
     "county": "Warren",
     "week": "2020-03-31",
     "deaths": 0
@@ -22313,11 +21848,6 @@
     "county": "Warren",
     "week": "2021-02-09",
     "deaths": 111
-  },
-  {
-    "county": "Warren",
-    "week": "2021-02-16",
-    "deaths": 70
   },
   {
     "county": "Washington",
@@ -22553,11 +22083,6 @@
     "county": "Washington",
     "week": "2021-02-09",
     "deaths": 176
-  },
-  {
-    "county": "Washington",
-    "week": "2021-02-16",
-    "deaths": 111
   },
   {
     "county": "Watauga",
@@ -22805,11 +22330,6 @@
     "deaths": 182
   },
   {
-    "county": "Watauga",
-    "week": "2021-02-16",
-    "deaths": 113
-  },
-  {
     "county": "Wayne",
     "week": "2020-03-10",
     "deaths": 0
@@ -23055,11 +22575,6 @@
     "deaths": 1373
   },
   {
-    "county": "Wayne",
-    "week": "2021-02-16",
-    "deaths": 814
-  },
-  {
     "county": "Wilkes",
     "week": "2020-03-31",
     "deaths": 5
@@ -23288,11 +22803,6 @@
     "county": "Wilkes",
     "week": "2021-02-09",
     "deaths": 668
-  },
-  {
-    "county": "Wilkes",
-    "week": "2021-02-16",
-    "deaths": 394
   },
   {
     "county": "Wilson",
@@ -23540,11 +23050,6 @@
     "deaths": 987
   },
   {
-    "county": "Wilson",
-    "week": "2021-02-16",
-    "deaths": 572
-  },
-  {
     "county": "Yadkin",
     "week": "2020-03-24",
     "deaths": 0
@@ -23780,11 +23285,6 @@
     "deaths": 289
   },
   {
-    "county": "Yadkin",
-    "week": "2021-02-16",
-    "deaths": 175
-  },
-  {
     "county": "Yancey",
     "week": "2020-04-28",
     "deaths": 0
@@ -23993,10 +23493,5 @@
     "county": "Yancey",
     "week": "2021-02-09",
     "deaths": 161
-  },
-  {
-    "county": "Yancey",
-    "week": "2021-02-16",
-    "deaths": 92
   }
 ]
